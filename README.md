@@ -1,6 +1,5 @@
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=AlexCr4ckPentest&count_private=true&theme=tokyonight)
 
-### Im using:
 <div class="tools_and_languages">
   <img src="./img/tools_and_languages/C_logo.png" alt="C" width="46px"/>
   <img src="./img/tools_and_languages/C++_logo.png" alt="C++" width="46px"/>
