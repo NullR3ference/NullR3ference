@@ -1,6 +1,6 @@
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexCr4ckPentest&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexCr4ckPentest&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCr4ckPentest&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCr4ckPentest&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <div class="tools_and_languages">
   <img src="./img/tools_and_languages/C_logo.png" alt="C" width="46px"/>
