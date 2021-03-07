@@ -1,4 +1,6 @@
-![My Github stats](https://github-readme-stats.vercel.app/api?username=AlexCr4ckPentest&count_private=true&theme=tokyonight)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexCr4ckPentest&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCr4ckPentest&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <div class="tools_and_languages">
   <img src="./img/tools_and_languages/C_logo.png" alt="C" width="46px"/>
@@ -7,5 +9,6 @@
   <img src="./img/tools_and_languages/Boost_logo.png" alt="Boost C++ libraries" width="92px"/>
   <img src="./img/tools_and_languages/NASM_logo.png" alt="NASM Assembler" width="40px"/>
   <img src="./img/tools_and_languages/Bash_logo.png" alt="BASH" width="42px"/>
-  <img src="./img/tools_and_languages/Git_logo.png" alt="Git" width="56px"/>
+  <img src="./img/tools_and_languages/Git_logo.png" alt="Git" width="42px"/>
+  <img src="./img/tools_and_languages/CMake_logo.png" alt="CMake" width="48px"/>
 </div>
