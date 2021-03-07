@@ -1,4 +1,4 @@
-![My Github stats](https://github-readme-stats.vercel.app/api?username=AlexCr4ckPentest&count_private=true)
+![My Github stats](https://github-readme-stats.vercel.app/api?username=AlexCr4ckPentest&count_private=true&theme=gruvbox)
 
 ### Im using:
 <div class="tools_and_languages">
