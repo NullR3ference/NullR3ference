@@ -12,7 +12,7 @@
   <img src="./img/tools_and_languages/CMake_logo.png" alt="CMake" width="50px"/>
 </div>
 
-__Buy me a coffee :)__
+__DO NOT DONATE! NEVER!__
 * XMR: 439ViDP7D511PjKyPYtXrKhpDFpHhQqQieKM7xFKfTJMAx2cSCx8hmEGGkNAExnQdhCefTo997UA8M37fkmzMz72JSxfwVD
 * BTC: 3KpxNUqzsvNU5AwxjJr7eDEUpdQdyA6CnQ
 * ETH: 0x2042ACCf556BcAe67506D611e4711d738571666A
