@@ -11,3 +11,9 @@
   <img src="./img/tools_and_languages/Git_logo.png" alt="Git" width="44px"/>
   <img src="./img/tools_and_languages/CMake_logo.png" alt="CMake" width="50px"/>
 </div>
+
+Buy me a coffee :)\
+[XMR]: 439ViDP7D511PjKyPYtXrKhpDFpHhQqQieKM7xFKfTJMAx2cSCx8hmEGGkNAExnQdhCefTo997UA8M37fkmzMz72JSxfwVD\
+[BTC]: 3KpxNUqzsvNU5AwxjJr7eDEUpdQdyA6CnQ\
+[ETH #1]: 0x2042ACCf556BcAe67506D611e4711d738571666A\
+[ETH #2]: 0xBd1923170D39B86b273F01dF195E8dC736B87295
