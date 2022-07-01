@@ -1,4 +1,4 @@
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexCr4ckPentest&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/AlexCr4ckPentest)
+<-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexCr4ckPentest&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/AlexCr4ckPentest) -->
 
 # My Github is now inactive, all my code has been moved to other source code vaults
 ## [Follow me on Codeberg](https://codeberg.org/AlexCr4ckPentest)
