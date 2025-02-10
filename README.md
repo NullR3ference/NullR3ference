@@ -1,7 +1,7 @@
 <div class="tools_and_languages">
   <img src="./img/tools_and_languages/C_logo.png" alt="C" width="48px"/>
   <img src="./img/tools_and_languages/C++_logo.png" alt="C++" width="48px"/>
-  <img src="./img/tools_and_languages/Java_icon.png" alt="Java" width="48px"/>
+  <img src="./img/tools_and_languages/Java_logo.png" alt="Java" width="48px"/>
   <img src="./img/tools_and_languages/Qt_logo.png" alt="Qt framework" width="58px"/>
   <img src="./img/tools_and_languages/Boost_logo.png" alt="Boost C++ libraries" width="98px"/>
   <img src="./img/tools_and_languages/OpenGL_logo.png" alt="OpenGL" width="100px"/>
